@@ -21,7 +21,7 @@ git clone https://github.com/MohammadBilalCSE/Progress-Steps.git
 ### **Step 2: Navigate to the Project Directory**
 
 ```bash
-cd progress-steps
+cd Progress-Steps
 ```
 
 ### **Step 3: Open in a Browser**
