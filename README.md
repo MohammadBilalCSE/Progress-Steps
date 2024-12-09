@@ -15,7 +15,7 @@ A dynamic and interactive progress bar built using HTML, CSS, and JavaScript. Th
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/progress-steps.git
+git clone https://github.com/MohammadBilalCSE/Progress-Steps.git
 ```
 
 ### **Step 2: Navigate to the Project Directory**
